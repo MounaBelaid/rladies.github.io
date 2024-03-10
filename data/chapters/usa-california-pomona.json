@@ -1,0 +1,16 @@
+[
+  {
+    "urlname": "rladies-pomona",
+    "status": "prospective",
+    "country": "USA",
+    "state.region": "California",
+    "city": "Pomona",
+    "social_media": {
+      "meetup": "rladies-XXX",
+      "email": "XXX@rladies.org"
+    },
+    "organizers": {
+      "current": ["Zoe A. Walker"]
+    }
+  }
+]
